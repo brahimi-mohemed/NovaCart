@@ -43,6 +43,8 @@ A modern, responsive e-commerce web application built with **React** and **Vite*
 <img width="417.5" height="605.5" alt="tablet2" src="https://github.com/user-attachments/assets/5e3e1aa6-e4bc-40e0-bd92-03ba08108ad3" />
 <img width="302.25" height="656.25" alt="phone2" src="https://github.com/user-attachments/assets/6a70eb2c-350b-4cf7-a99e-f5812e741ba2" />
 <img width="302.25" height="656.25" alt="phone1" src="https://github.com/user-attachments/assets/d732f819-d1b3-453c-b631-ef1d15cc7ab3" />
+<img width="1280" height="800" alt="desktop1" src="https://github.com/user-attachments/assets/a126899a-ea4c-4715-af69-08db9229bc0b" />
+<img width="1280" height="800" alt="desktop2" src="https://github.com/user-attachments/assets/f9526bad-ff6b-44cb-a5a7-768f19424254" />
 
 
 
