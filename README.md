@@ -4,8 +4,8 @@ A modern, responsive e-commerce web application built with **React** and **Vite*
 
 ## Live Demo
 
-nova-cart-website.vercel.app
-
+> [nova-cart-website.vercel.app
+](https://nova-cart-website.vercel.app/)
 
 ## Features
 
