@@ -39,8 +39,12 @@ A modern, responsive e-commerce web application built with **React** and **Vite*
 * DummyJSON API
 
 ## Screenshots
+<img width="417.5" height="605.5" alt="tablet1" src="https://github.com/user-attachments/assets/098ab2a9-2e86-49b3-9330-5d2faa507103" />
+<img width="417.5" height="605.5" alt="tablet2" src="https://github.com/user-attachments/assets/5e3e1aa6-e4bc-40e0-bd92-03ba08108ad3" />
+<img width="302.25" height="656.25" alt="phone2" src="https://github.com/user-attachments/assets/6a70eb2c-350b-4cf7-a99e-f5812e741ba2" />
+<img width="302.25" height="656.25" alt="phone1" src="https://github.com/user-attachments/assets/d732f819-d1b3-453c-b631-ef1d15cc7ab3" />
 
-Screenshots will be added soon.
+
 
 ## Installation
 
