@@ -55,7 +55,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: clamp(5px, 3vw, 300px);
+  gap: clamp(5px, 2vw, 300px);
 }
 .brand-logo{
   background-image: linear-gradient(to right, var(--primary), #153885);
@@ -63,7 +63,7 @@ header {
   -webkit-background-clip: text;
   color: transparent;
   font-weight: bold;
-  font-size: clamp(20px, 3vw, 30px);
+  font-size: clamp(16px, 3vw, 30px);
   cursor: pointer;
   margin-right: auto;
   text-decoration: none;
@@ -78,7 +78,7 @@ header {
 
 .nav-bar a {
   height: 100%;
-  font-size: clamp(16px, 2.6vw, 22px);
+  font-size: clamp(12px, 2.6vw, 22px);
   text-align: center;
   align-content: center;
   text-decoration: none;
@@ -100,7 +100,7 @@ header {
   align-items: center;
 }
 .cart-icon img{
-  height: clamp(25px, 3.7vw, 35px);
+  height: clamp(20px, 3.7vw, 35px);
   object-fit: cover;
 }
 .cart-icon:hover {
@@ -113,7 +113,7 @@ header {
 }
 .nav-bar span{
   color: var(--muted-txt);
-  font-size: clamp(14px, 2vw, 16vw);
+  font-size: clamp(10px, 2vw, 16vw);
   margin-left: 5px;
 }
 
@@ -126,7 +126,7 @@ footer{
 .footer-info{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr ;
-  gap: clamp(5px, 16vw, 500px);
+  gap: clamp(5px, 12vw, 500px);
   border-bottom: 1px solid var(--very-muted-txt) ;
   padding: 20px 0px;
 }
@@ -138,12 +138,12 @@ footer div{
 }
 footer h2{
   color: var(--main-txt);
-  font-size: clamp(16px, 1.9vw, 22px);
+  font-size: clamp(14px, 1.8vw, 22px);
   margin-bottom: 20px;
 }
 footer p,
 footer a {
-  font-size: clamp(12px, 1.5vw, 18px);
+  font-size: clamp(10px, 1.4vw, 18px);
   color: var(--muted-txt);
   text-align: start;
   margin-bottom: 15px;
@@ -168,7 +168,7 @@ footer a:active{
   color: var(--very-muted-txt);
   margin: auto;
   margin-bottom: 5px;
-  font-size: clamp(10px, 1.2vw, 16px);
+  font-size: clamp(8px, 1vw, 16px);
 }
 
 .txt-msg{

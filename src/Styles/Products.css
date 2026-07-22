@@ -27,22 +27,22 @@
     justify-content: center;
     align-items: center;
     
-    gap: clamp(10px, 4vw, 50px)
+    gap: clamp(5px, 3vw, 50px)
 }
 
 .search-field label {
     color: var(--muted-txt);
-    font-size: clamp(8px, 1.2vw, 1.2em);
+    font-size: clamp(6px, 1.1vw, 1em);
 }
 
 .search-field input {
     margin-left: 10px;
     padding: 5px 10px;
 
-    font-size: clamp(8px, 1.3vw, 14px);
+    font-size: clamp(6px, 1vw, 14px);
     outline: 1px var(--very-muted-txt) solid;
 
-    min-width: 120px;
+    width: clamp(75px, 20vw, 250px);
 
     border-radius: 10px;
     border: none;
@@ -62,7 +62,7 @@
     border: none;
 
     text-align: center;
-    font-size: clamp(8px, 1.3vw, 14px);
+    font-size: clamp(6px, 1vw, 14px);
 
     cursor: pointer;
     outline: 1px var(--very-muted-txt) solid;
@@ -70,7 +70,7 @@
 
 .sort-select{
     text-align: center;
-    font-size: clamp(8px, 1.3vw, 14px);
+    font-size: clamp(6px, 1vw, 14px);
 
     margin-left: 10px;
     cursor: pointer;
@@ -87,7 +87,7 @@ select:focus{
 }
 
 .search-result{
-    font-size: clamp(8px, 1.4vw, 14px);
+    font-size: clamp(6px, 1.2vw, 14px);
     font-family: monospace;
     display: inline;
     width: 10ch;
@@ -100,7 +100,7 @@ select:focus{
     font-weight: 500;
     cursor: pointer;
     transition: 0.2s ease-in-out;
-    font-size: clamp(8px, 1.3vw, 14px);
+    font-size: clamp(6px, 1vw, 14px);
 }
 
 .reset-btn:hover{
@@ -145,6 +145,9 @@ select:focus{
 }
 
 @media (max-width:800px){
+
+
+
     .search-field label{
         display: flex;
         flex-direction: column;

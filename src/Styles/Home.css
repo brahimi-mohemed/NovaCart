@@ -169,7 +169,7 @@
     margin-bottom: 10px;
 
     font-weight: bold;
-    font-size: clamp(12px, 1.2vw, 18px);
+    font-size: clamp(10px, 1.2vw, 18px);
 
     color: #ffffff;
     background-color: var(--primary);

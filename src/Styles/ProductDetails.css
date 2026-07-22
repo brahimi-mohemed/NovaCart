@@ -151,6 +151,7 @@
     color: var(--muted-txt);
     font-size: clamp(8px, 1vw, 14px);
     margin-bottom: 5px;
+
 }
 
 .product-info h4{
@@ -224,6 +225,6 @@
     }
 
     .product-info p{
-        width: 350px;
+        width: 300px;
     }
 }
